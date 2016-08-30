@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  WDrawing
+//  MGConfigDemo
 //
-//  Created by apple on 16/8/30.
-//  Copyright © 2016年 W.Miga. All rights reserved.
+//  Created by apple on 16/8/10.
+//  Copyright © 2016年 wmg. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
