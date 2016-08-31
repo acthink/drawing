@@ -8,11 +8,12 @@
 
 #import "ViewController.h"
 
-
 @interface ViewController ()
 
 @property (nonatomic, strong, nullable) NSMutableArray * drawPaths;
 @property (nonatomic, strong, nullable) NSMutableArray * drawLayers;
+
+
 
 @end
 
@@ -34,6 +35,7 @@
     backBtn.tag = 2;
     [backBtn addTarget:self action:@selector(backOrClear:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview: backBtn];
+    
     
 }
 
